@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, it's Luisa! 👋
 
-<!--
-**luisaschmidt-web/luisaschmidt-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 *Business Systems & Data Analytics and Marketing Student @ Stetson University  
+💻 My interests include Data Analytics, Business Intelligence, Marketing Analytics, and Artificial Intelligence.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Experience
+•⁠  ⁠*Technology Solutions (Data Intern) at Brown & Brown Inc.
+•⁠  ⁠*Previous Global Communications & Digital Marketing Intern at Brown & Brown Inc.
+•⁠  ⁠*Marketing & Strategy Board Member - Volunteer at Hope & Whiskers Animal Rescue
+
+## Current Projects
+•⁠  ⁠*Currently building Hope & Whiskers App to track Animal Intake & Volunteer Operations
+•⁠  ⁠*Researched BBrown Global Competitiors Communications/unstructured data
